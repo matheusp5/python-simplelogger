@@ -1,3 +1,5 @@
+# Python Simple Keylogger
+
 ## Como utilizar a aplicação
 
 Antes de utilizar a aplicação, é necessário ter o Python3 instalado no seu sistema. Caso você ainda não tenha o Python3 instalado, você pode baixá-lo gratuitamente em https://www.python.org/downloads/ e seguir as instruções de instalação.
